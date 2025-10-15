@@ -1,3 +1,8 @@
+[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists)](https://git.io/typing-svg)
+
+---
+
+### Hi there, I'm AYA! 👋
 <h1 align="center">Hi 👋, I'm Aya El Jahidi</h1>
 <h3 align="center">Curious mind from Morocco, driven by a passion for networking and cybersecurity.</h3>
 
