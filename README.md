@@ -1,4 +1,4 @@
-[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=FF69B4&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists)](https://git.io/typing-svg)
+[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&pause=1000&color=FF69B4&background=FFFFFF00&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists&center=true&vCenter=true&gradient=true&colors=FF69B4,DA70D6)](https://git.io/typing-svg)
 
 
 
