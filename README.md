@@ -4,7 +4,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Aya El Jahidi</h1>
-<h3 align="center">Curious mind from Morocco, driven by a passion for networking and cybersecurity.</h3>
+<h3 align="center">Curious mind from Morocco, driven by a passion for networking&cybersecurity&IA.</h3>
 
 
 
