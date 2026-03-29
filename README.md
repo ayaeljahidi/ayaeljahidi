@@ -1,8 +1,20 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20AYA%20EL%20JAHIDI&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 
-[![Explore, star, comment, fork](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=FF69B4&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+mono&weight=300&size=18&color=FF69B4&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists" />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%7C+Data+Scientist;Building+LLM+Systems+%26+RAG+Pipelines;MSc+AI+%40+LUMS+%7C+Pushing+AI+Boundaries" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%7C+Cybersecurity+Enthusiast;Building+Real-Time+Intelligent+Systems;Intrusion+Detection+%7C+AI+%7C+Network+Security" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+AI & Cybersecurity Engineer building intelligent real-time systems.<br/>
+Focused on Network Security, Intrusion Detection, and AI-powered solutions.
 </p>
 
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%"/>
@@ -12,36 +24,36 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,bash,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,elasticsearch,Tkinter,git,github,unity,blender,postgres,mysql,mongo&perline=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,bash,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,elasticsearch,git,github,postgres,mysql,mongo&perline=12" alt="Tech Stack"/>
 </p>
 
 <br/>
 
 <h2 align="center">Connect With Me</h2>
+
+<p align="center">
 <a href="mailto:a.eljahidi0114@uca.ac.ma" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>&nbsp;
+</a>
 </p>
 
 <br/>
 
 <h2 align="center">GitHub Contributions</h2>
 
-<br/>
-
 <p align="center">
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkarim45&theme=tokyonight" alt="Stats"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkarim45&theme=tokyonight" alt="Top Languages"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkarim45&theme=tokyonight" alt="Most Commit Language"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkarim45&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=tkarim45&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=tkarim45&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 <br/>
