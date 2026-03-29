@@ -13,7 +13,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,bash,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,elasticsearch,git,github,postgres,mysql,mongo&perline=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,js,html,java,c,bash,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,elasticsearch,git,github,postgres,mysql,mongo&perline=12" alt="Tech Stack"/>
 </p>
 
 <br/>
