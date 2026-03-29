@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+mono&weight=300&size=18&color=FF69B4&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=FF69B4&multiline=true&random=false&width=435&lines=Feel+free+to+explore%2C+star%2C+clone;fork+and+comment+my+repos+%26+gists" />
   </a>
 </p>
 
@@ -10,11 +10,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%7C+Cybersecurity+Enthusiast;Building+Real-Time+Intelligent+Systems;Intrusion+Detection+%7C+AI+%7C+Network+Security" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-AI & Cybersecurity Engineer building intelligent real-time systems.<br/>
-Focused on Network Security, Intrusion Detection, and AI-powered solutions.
 </p>
 
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%"/>
@@ -42,18 +37,18 @@ Focused on Network Security, Intrusion Detection, and AI-powered solutions.
 <h2 align="center">GitHub Contributions</h2>
 
 <p align="center">
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
-<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayaeljahidi&theme=tokyonight"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayaeljahidi&theme=tokyonight"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayaeljahidi&theme=tokyonight"/>
+<img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayaeljahidi&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaeljahidi&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayaeljahidi&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 <br/>
