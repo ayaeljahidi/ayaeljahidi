@@ -19,7 +19,10 @@
 <br/>
 
 <h2 align="center">Connect With Me</h2>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/aya-el-jahidi1/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
 <p align="center">
 <a href="mailto:a.eljahidi0114@uca.ac.ma" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
